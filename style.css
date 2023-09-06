@@ -1,0 +1,40 @@
+.nav-bar{
+    background-color:#3A1078;
+}
+.nav-pills{
+    --bs-nav-pills-link-active-bg: #2c74b3;
+}
+.feature-image{
+    height: 100px;
+    border-radius: 50%;
+}
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50px;
+}
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: #2C74B3;
+    --bs-btn-border-color: #0d6efd;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #205295;
+    --bs-btn-hover-border-color: #2C74B3;
+    --bs-btn-focus-shadow-rgb: 49,132,253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #0a58ca;
+    --bs-btn-active-border-color: #2C74B3;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+    border-width: 0;
+}
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
+#footer{
+    background-color:#3A1078;
+}
